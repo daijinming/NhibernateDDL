@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhibernateDDL", "NhibernateDDL.csproj", "{02EB6879-BE87-4DA1-B57B-4CB49FDCAE6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhibernateDDL2", "..\NhibernateDDL2\NhibernateDDL2.csproj", "{7CDF35D5-CCEE-4A75-A723-5CA993904B5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{02EB6879-BE87-4DA1-B57B-4CB49FDCAE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02EB6879-BE87-4DA1-B57B-4CB49FDCAE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02EB6879-BE87-4DA1-B57B-4CB49FDCAE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDF35D5-CCEE-4A75-A723-5CA993904B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDF35D5-CCEE-4A75-A723-5CA993904B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDF35D5-CCEE-4A75-A723-5CA993904B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDF35D5-CCEE-4A75-A723-5CA993904B5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
